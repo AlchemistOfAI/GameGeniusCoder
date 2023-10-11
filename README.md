@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GameGeniusCoder
+- 👋 Hi, I’m @AIAlchemist
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Programming
